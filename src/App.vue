@@ -18,6 +18,11 @@ export default {
     'app-header': Header,
     'app-events': Events,
     'app-footer': Footer
+  },
+  data() {
+    return {
+
+    }
   }
 }
 </script>
